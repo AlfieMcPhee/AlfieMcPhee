@@ -2,7 +2,7 @@
 
 # Alfie McPhee
 
-**Foundation year Computer Science student · Liverpool**
+**Computer Science Student at University Of Liverpool**
 
 Learning how things work by building small things and taking them apart.
 
