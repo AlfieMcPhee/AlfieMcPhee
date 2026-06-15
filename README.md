@@ -1,46 +1,39 @@
-<h1 align="center">Alfie McPhee</h1>
+# Alfie McPhee
 
-<p align="center">
-  <b>Computer Science Student · University of Liverpool</b>
-</p>
+**Computer Science student at the University of Liverpool, learning over the summer.**
 
-<p align="center">
-  <i>Learning how things work by building small things and taking them apart.</i>
-</p>
+I'm spending these months getting the fundamentals solid rather than collecting tools. I learn by building small things and taking them apart to see how they work.
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-### 🛰️ Currently learning
+### What I'm working on
 
-I'm focused on getting the fundamentals solid rather than collecting tools. Right now that means three things:
+The three things I'm focused on this summer:
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-- **Java** — moving from the basics into object-oriented programming properly
+- **Java** — moving past the basics into object-oriented programming properly
 - **Git** — branching, history, and using it as a daily habit
-- **Docker** — containers, images, and understanding why any of it matters
+- **Docker** — containers and images, and working out why any of it matters before I lean on it
 
-### 🛠️ Also comfortable with
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+And a bit of **Python** on the side for smaller scripts and experiments, while finding my way around **Linux** as I go.
 
 ---
 
-### 📊 GitHub at a glance
+### Where I'm putting it into practice
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlfieMcPhee&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfieMcPhee&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
+My main project is where I'm actually applying the Java ideas as I learn them, so it changes a lot:
+
+<a href="https://github.com/AlfieMcPhee/myfirstjavaproject">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlfieMcPhee&repo=myfirstjavaproject&theme=default&hide_border=true" />
+</a>
 
 ---
 
-### 📌 About this profile
+### About this profile
 
-<p align="center">
-  <i>Repositories go up when I understand them well enough to explain them.<br>
-  This page updates as I do.</i>
-</p>
+Repositories go up when I understand them well enough to explain them. This page updates as I do.
