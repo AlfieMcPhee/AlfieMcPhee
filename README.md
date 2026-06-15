@@ -41,6 +41,5 @@ I'm focused on getting the fundamentals solid rather than collecting tools. Righ
 ### 📌 About this profile
 
 <p align="center">
-  <i>Repositories go up when I understand them well enough to explain them.<br>
-  This page updates as I do.</i>
+  <i>Repositories are personal projects for me to develop my skills.</i>
 </p>
