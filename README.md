@@ -36,4 +36,4 @@ My main project is where I'm actually applying the Java ideas as I learn them, s
 
 ### About this profile
 
-Repositories go up when I understand them well enough to explain them. This page updates as I do.
+A hub for all my learning and projects
