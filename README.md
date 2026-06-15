@@ -1,19 +1,18 @@
-<div align="center">
+<h1 align="center">Alfie McPhee</h1>
 
-# Alfie McPhee
+<p align="center">
+  <b>Computer Science Student · University of Liverpool</b>
+</p>
 
-**Foundation year Computer Science student · Liverpool**
-
-Learning how things work by building small things and taking them apart.
-
-</div>
+<p align="center">
+  <i>Learning how things work by building small things and taking them apart.</i>
+</p>
 
 ---
 
-### 🧭 Currently learning
+### 🛰️ Currently learning
 
-I'm focused on getting the fundamentals solid rather than collecting tools.
-Right now that means three things:
+I'm focused on getting the fundamentals solid rather than collecting tools. Right now that means three things:
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -23,8 +22,6 @@ Right now that means three things:
 - **Git** — branching, history, and using it as a daily habit
 - **Docker** — containers, images, and understanding why any of it matters
 
----
-
 ### 🛠️ Also comfortable with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -32,12 +29,18 @@ Right now that means three things:
 
 ---
 
+### 📊 GitHub at a glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlfieMcPhee&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfieMcPhee&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
 ### 📌 About this profile
 
-<div align="center">
-
-*Repositories go up when I understand them well enough to explain them.*
-<br>
-*This page updates as I do.*
-
-</div>
+<p align="center">
+  <i>Repositories go up when I understand them well enough to explain them.<br>
+  This page updates as I do.</i>
+</p>
