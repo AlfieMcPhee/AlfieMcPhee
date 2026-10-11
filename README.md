@@ -1,4 +1,4 @@
-# Hi, I'm [Alfie] 
+# Hi, I'm Alfie
 
 I'm a Computer Science student at the University of Liverpool.
 
